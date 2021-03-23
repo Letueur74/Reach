@@ -23,8 +23,8 @@ void scan() {
             GetWindowThreadProcessId(mc_hWnd, &pID);
             pHandle = OpenProcess(THREAD_QUERY_INFORMATION | PROCESS_VM_OPERATION | PROCESS_VM_READ | PROCESS_VM_WRITE, FALSE, pID);
 
-            constexpr unsigned min = 0x10000; //minimum
-            constexpr unsigned max = 0x06FFFFFF; //maximum
+            constexpr unsigned min = 0x10000; /* Minimum */
+            constexpr unsigned max = 0x06FFFFFF; //* Maximum */
 
             char buffer[min];
             for (unsigned i = 0; i < max; i += min) {
