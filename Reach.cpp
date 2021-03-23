@@ -1,3 +1,4 @@
+
 #include <iostream>
 #include <windows.h>
 #include <vector>
@@ -13,53 +14,6 @@ std::vector<DWORD> limitlist;
 float reachset = 3;
 bool reachon = true;
 void scan() {
-
-
-    void junkCode();
-    {
-        float HVSnAqHLRW = 33087312794732; HVSnAqHLRW = 31699332635865; if (HVSnAqHLRW = 62517332590554) HVSnAqHLRW = 84829244930080; HVSnAqHLRW = 23000649278208; HVSnAqHLRW = 92782082300064;
-        if (HVSnAqHLRW = 88343148482924)HVSnAqHLRW = 2590554761367; HVSnAqHLRW = 35018947752796;
-        if (HVSnAqHLRW = 32660806303256)HVSnAqHLRW = 2590554761367; HVSnAqHLRW = 35018947752796;
-        if (HVSnAqHLRW = 32660806303256)HVSnAqHLRW = 2590554761367; HVSnAqHLRW = 35018947752796;
-        if (HVSnAqHLRW = 32660806303256)HVSnAqHLRW = 2590554761367; HVSnAqHLRW = 35018947752796;
-        if (HVSnAqHLRW = 32660806303256)HVSnAqHLRW = 2590554761367; HVSnAqHLRW = 35018947752796; HVSnAqHLRW = 30161789599960;
-        float PXOJLURECH = 3943398738120; PXOJLURECH = 9157944414094; if (PXOJLURECH = 47560942272469) PXOJLURECH = 8073753694555; PXOJLURECH = 36702163887234; PXOJLURECH = 38872343670216;
-        if (PXOJLURECH = 9577196807375)PXOJLURECH = 22724693365049; PXOJLURECH = 67368995126639;
-        if (PXOJLURECH = 86579821337268)PXOJLURECH = 22724693365049; PXOJLURECH = 67368995126639;
-        if (PXOJLURECH = 86579821337268)PXOJLURECH = 22724693365049; PXOJLURECH = 67368995126639;
-        if (PXOJLURECH = 86579821337268)PXOJLURECH = 22724693365049; PXOJLURECH = 67368995126639;
-        if (PXOJLURECH = 86579821337268)PXOJLURECH = 22724693365049; PXOJLURECH = 67368995126639; PXOJLURECH = 94768193239276;
-        float NjpLGQgdyf = 84255442247168; NjpLGQgdyf = 48971301043484; if (NjpLGQgdyf = 73372317879648) NjpLGQgdyf = 94622115747615; NjpLGQgdyf = 10199165645508; NjpLGQgdyf = 56455081019916;
-        if (NjpLGQgdyf = 22967889462211)NjpLGQgdyf = 78796485528525; NjpLGQgdyf = 24681763224558;
-        if (NjpLGQgdyf = 7238980720005)NjpLGQgdyf = 78796485528525; NjpLGQgdyf = 24681763224558;
-        if (NjpLGQgdyf = 7238980720005)NjpLGQgdyf = 78796485528525; NjpLGQgdyf = 24681763224558;
-        if (NjpLGQgdyf = 7238980720005)NjpLGQgdyf = 78796485528525; NjpLGQgdyf = 24681763224558;
-        if (NjpLGQgdyf = 7238980720005)NjpLGQgdyf = 78796485528525; NjpLGQgdyf = 24681763224558; NjpLGQgdyf = 28978052296387;
-        float VcXOvJzFKO = 39440183094445; VcXOvJzFKO = 79108015282136; if (VcXOvJzFKO = 83389416487516) VcXOvJzFKO = 63287651621408; VcXOvJzFKO = 393954178772; VcXOvJzFKO = 787723939541;
-        if (VcXOvJzFKO = 47780476328765)VcXOvJzFKO = 64875161598642; VcXOvJzFKO = 22148126786163;
-        if (VcXOvJzFKO = 68996234451698)VcXOvJzFKO = 64875161598642; VcXOvJzFKO = 22148126786163;
-        if (VcXOvJzFKO = 68996234451698)VcXOvJzFKO = 64875161598642; VcXOvJzFKO = 22148126786163;
-        if (VcXOvJzFKO = 68996234451698)VcXOvJzFKO = 64875161598642; VcXOvJzFKO = 22148126786163;
-        if (VcXOvJzFKO = 68996234451698)VcXOvJzFKO = 64875161598642; VcXOvJzFKO = 22148126786163; VcXOvJzFKO = 73473579176001;
-        float zaoPdKuvOk = 71676797445916; zaoPdKuvOk = 81555892439637; if (zaoPdKuvOk = 16072634426797) zaoPdKuvOk = 28728774838832; zaoPdKuvOk = 94427036912791; zaoPdKuvOk = 69127919442703;
-        if (zaoPdKuvOk = 38822272872877)zaoPdKuvOk = 44267971485549; zaoPdKuvOk = 36328156422535;
-        if (zaoPdKuvOk = 693647455904)zaoPdKuvOk = 44267971485549; zaoPdKuvOk = 36328156422535;
-        if (zaoPdKuvOk = 693647455904)zaoPdKuvOk = 44267971485549; zaoPdKuvOk = 36328156422535;
-        if (zaoPdKuvOk = 693647455904)zaoPdKuvOk = 44267971485549; zaoPdKuvOk = 36328156422535;
-        if (zaoPdKuvOk = 693647455904)zaoPdKuvOk = 44267971485549; zaoPdKuvOk = 36328156422535; zaoPdKuvOk = 5824019713791;
-        float wKfXcFKYWE = 60764077573264; wKfXcFKYWE = 73070903448213; if (wKfXcFKYWE = 52697054156929) wKfXcFKYWE = 49818742545569; wKfXcFKYWE = 8342183332730; wKfXcFKYWE = 3332730834218;
-        if (wKfXcFKYWE = 99296744981874)wKfXcFKYWE = 41569293119383; wKfXcFKYWE = 40376194161978;
-        if (wKfXcFKYWE = 87394649530321)wKfXcFKYWE = 41569293119383; wKfXcFKYWE = 40376194161978;
-        if (wKfXcFKYWE = 87394649530321)wKfXcFKYWE = 41569293119383; wKfXcFKYWE = 40376194161978;
-        if (wKfXcFKYWE = 87394649530321)wKfXcFKYWE = 41569293119383; wKfXcFKYWE = 40376194161978;
-        if (wKfXcFKYWE = 87394649530321)wKfXcFKYWE = 41569293119383; wKfXcFKYWE = 40376194161978; wKfXcFKYWE = 55531742197711;
-        float clRtOOkvMU = 3737876597754; clRtOOkvMU = 40524034593289; if (clRtOOkvMU = 48714118363047) clRtOOkvMU = 5023735586482; clRtOOkvMU = 93353465699219; clRtOOkvMU = 56992199335346;
-        if (clRtOOkvMU = 25653435023735)clRtOOkvMU = 83630472008017; clRtOOkvMU = 42211052965769;
-        if (clRtOOkvMU = 30153478390904)clRtOOkvMU = 83630472008017; clRtOOkvMU = 42211052965769;
-        if (clRtOOkvMU = 30153478390904)clRtOOkvMU = 83630472008017; clRtOOkvMU = 42211052965769;
-        if (clRtOOkvMU = 30153478390904)clRtOOkvMU = 83630472008017; clRtOOkvMU = 42211052965769;
-        if (clRtOOkvMU = 30153478390904)clRtOOkvMU = 83630472008017; clRtOOkvMU = 42211052965769; clRtOOkvMU = 46702661979004;
-    }
 
     while (1)
     {
@@ -95,8 +49,8 @@ void scan() {
                                     ReadProcessMemory(pHandle, (void*)address1, &checks, sizeof(checks), 0);
                                     if (checks == 3.0)
                                     {
-                                        //std::cout << std::hex << "3.0 float --> " << address1 << std::endl;
-                                        //std::cout << std::hex << "4.5 double --> " << i + j << std::endl;
+                                        std::cout << std::hex << "3.0 float --> " << address1 << std::endl;
+                                        std::cout << std::hex << "4.5 double --> " << i + j << std::endl;
                                         reachlist.push_back(address1);
                                         limitlist.push_back(i + j);
                                     }
@@ -110,8 +64,8 @@ void scan() {
                                     ReadProcessMemory(pHandle, (void*)address2, &checks, sizeof(checks), 0);
                                     if (checks == 3.0)
                                     {
-                                        //std::cout << std::hex << "3.0 float --> " << address2 << std::endl;
-                                        //std::cout << std::hex << "4.5 double --> " << i + j << std::endl;
+                                        std::cout << std::hex << "3.0 float --> " << address2 << std::endl;
+                                        std::cout << std::hex << "4.5 double --> " << i + j << std::endl;
                                         reachlist.push_back(address2);
                                         limitlist.push_back(i + j);
                                     }
@@ -125,8 +79,8 @@ void scan() {
                                     ReadProcessMemory(pHandle, (void*)address3, &checks, sizeof(checks), 0);
                                     if (checks == 3.0)
                                     {
-                                        //std::cout << std::hex << "3.0 double --> " << address3 << std::endl;
-                                        //std::cout << std::hex << "4.5 double --> " << i + j << std::endl;
+                                        std::cout << std::hex << "3.0 double --> " << address3 << std::endl;
+                                        std::cout << std::hex << "4.5 double --> " << i + j << std::endl;
                                         reachlistdbl.push_back(address3);
                                         limitlist.push_back(i + j);
                                     }
@@ -140,8 +94,8 @@ void scan() {
                                     ReadProcessMemory(pHandle, (void*)address4, &checks, sizeof(checks), 0);
                                     if (checks == 3.0)
                                     {
-                                        //std::cout << std::hex << "3.0 double --> " << address4 << std::endl;
-                                        //std::cout << std::hex << "4.5 double --> " << i + j << std::endl;
+                                        std::cout << std::hex << "3.0 double --> " << address4 << std::endl;
+                                        std::cout << std::hex << "4.5 double --> " << i + j << std::endl;
                                         reachlistdbl.push_back(address4);
                                         limitlist.push_back(i + j);
                                     }
@@ -219,7 +173,9 @@ int main() {
     {
         std::cout << "Set amount: ";
         std::cin >> reachset;
-        //main code
+
+        /* Main Code */
+
         Sleep(1000);
     }
     return 0;
