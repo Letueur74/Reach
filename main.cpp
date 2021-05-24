@@ -3,7 +3,6 @@
 * Learn to dox shitter 
 */
 
-
 #include <windows.h>
 #include <iostream>
 #include <vector>
